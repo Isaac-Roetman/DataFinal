@@ -1,3 +1,22 @@
+/***************************************************************
+* Name : MainFrame.java
+* Author: Isaac Roetman
+* Created : 12/9/2022
+* Course: CIS 152 - Data Structure
+* Version: 1.0
+* OS: Windows 10
+* IDE: eclipse Enterprise
+* Copyright : This is my own original work 
+* based on specifications issued by our instructor
+* Description : a program which demonstrates the use of two different types of
+* data structures and a GUI that fixes the real world problem of hospitals 
+* using pen and paper for visitor sign in sheets. This program allows uses sorting
+* in a priority queue and a linked list to simplify having visitors data stored
+* online.
+* I have not used unauthorized source code, either modified or
+* unmodified. I have not given other fellow student(s) access
+* to my program.
+***************************************************************/
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
